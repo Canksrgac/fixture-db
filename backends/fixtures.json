@@ -1,0 +1,37 @@
+[
+  {
+    "manufacturer": "Generic",
+    "name": "RGB PAR 3ch",
+    "mode": "3ch",
+    "channels": ["Red", "Green", "Blue"]
+  },
+  {
+    "manufacturer": "Generic",
+    "name": "RGBW PAR 4ch",
+    "mode": "4ch",
+    "channels": ["Red", "Green", "Blue", "White"]
+  },
+  {
+    "manufacturer": "Generic",
+    "name": "Beam 230 16ch",
+    "mode": "16ch",
+    "channels": [
+      "Pan",
+      "Pan Fine",
+      "Tilt",
+      "Tilt Fine",
+      "Speed",
+      "Dimmer",
+      "Strobe",
+      "Color Wheel",
+      "Gobo Wheel",
+      "Prism",
+      "Prism Rotate",
+      "Focus",
+      "Frost",
+      "Iris",
+      "Reset",
+      "Macro"
+    ]
+  }
+]
